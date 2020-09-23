@@ -2,7 +2,7 @@
 
 ## Live Demo
 
-https://akbarhabiby.github.io/Menghias-Laman-HTML-dengan-CSS/
+https://akbarhabiby.github.io/Menghias-Laman-HTML-dengan-CSS/index.html
 
 ## Objectives
 
